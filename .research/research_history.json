@@ -1,0 +1,13 @@
+{
+  "experiment_name": "RDEIL - Robust Diffusion-Enhanced Imitation Learning",
+  "status_enum": "stopped",
+  "timestamp": "2025-06-10T15:38:16.285483",
+  "experiments_completed": [
+    "Experiment 1: Robustness in Noisy Expert Demonstrations",
+    "Experiment 2: Ablation Study on Dual Loss Components",
+    "Experiment 3: Evaluating Adaptive Noise Schedules"
+  ],
+  "results_location": ".research/iteration1/images/",
+  "models_saved": "models/",
+  "data_location": "data/"
+}
